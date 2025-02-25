@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on enhancing my skills.<br>🧠 I’m currently learning MERN Stack.<br>
+🔭 I’m currently working on a Full Stack project KAKSHA.<br>🧠 I’m currently looking for Full Stack Developer Roles.<br>
 
 
 ## 🌐 Socials:
